@@ -8,5 +8,37 @@ inquirer
       type:'input',
       name: 'name',
       message: 'What is your project`s name?'
-     }   
+     },   
+     {
+        type:'input',
+        name: 'name',
+        message: 'What is your project`s name?'
+       },   
+        {
+        type:'input',
+        name: 'name',
+        message: 'What is your project`s name?'
+       },     
+       {
+        type:'input',
+        name: 'name',
+        message: 'What is your project`s name?'
+       },     
+       {
+        type:'input',
+        name: 'name',
+        message: 'What is your project`s name?'
+       },    
+        {
+        type:'input',
+        name: 'name',
+        message: 'What is your project`s name?'
+       },     
+       {
+        type:'input',
+        name: 'name',
+        message: 'What is your project`s name?'
+       }   
     ]
+
+    
