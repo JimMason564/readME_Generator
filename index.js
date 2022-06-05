@@ -1,6 +1,5 @@
-const inquire = require('inquirer');
-const fs = require('fs');
 const inquirer = require('inquirer');
+const fs = require('fs');
 
 inquirer
     .prompt()[
@@ -11,34 +10,39 @@ inquirer
      },   
      {
         type:'input',
-        name: 'name',
-        message: 'What is your project`s name?'
+        name: 'description',
+        message: 'Please describe your project'
        },   
         {
         type:'input',
-        name: 'name',
-        message: 'What is your project`s name?'
+        name: 'installation',
+        message: 'Please describe any libraries that need to be added in order for your app to work properly'
        },     
        {
         type:'input',
-        name: 'name',
-        message: 'What is your project`s name?'
+        name: 'Usage',
+        message: 'How does your app work?'
        },     
        {
         type:'input',
-        name: 'name',
-        message: 'What is your project`s name?'
+        name: 'license',
+        message: 'What licenses are needed?'
        },    
         {
         type:'input',
-        name: 'name',
-        message: 'What is your project`s name?'
+        name: 'contributing',
+        message: 'Were there any contributors to your project?'
        },     
        {
         type:'input',
-        name: 'name',
-        message: 'What is your project`s name?'
-       }   
+        name: 'questions',
+        message: 'Please enter a link to your GitHub account'
+       },   
+       {
+         type:'input',
+         name: 'questions',
+         message: 'Please enter your e-mail address'
+        }   
     ]
 
     
