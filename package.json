@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JimMason564/readME_Generator/issues"
   },
-  "homepage": "https://github.com/JimMason564/readME_Generator#readme"
+  "homepage": "https://github.com/JimMason564/readME_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
