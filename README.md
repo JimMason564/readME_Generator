@@ -30,6 +30,9 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
-Github repo: https://github.com/JimMason564/readME_Generator
+## Github Repo
+https://github.com/JimMason564/readME_Generator
+
+## Demonstration
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1T99mUaDYKjWe72cdZsgEjYzbYjwpIBM7/preview))
