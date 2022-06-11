@@ -34,5 +34,7 @@ THEN I am taken to the corresponding section of the README
 https://github.com/JimMason564/readME_Generator
 
 ## Demonstration
+![image](https://user-images.githubusercontent.com/100049308/173172748-4c8c21ac-63cf-44d1-8d59-5caf7c908fec.png)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1T99mUaDYKjWe72cdZsgEjYzbYjwpIBM7/preview))
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1T99mUaDYKjWe72cdZsgEjYzbYjwpIBM7/preview)
