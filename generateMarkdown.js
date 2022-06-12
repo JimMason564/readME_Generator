@@ -11,11 +11,8 @@ function renderLicense(license) {
   if (license === 'BSD 3-Clause NEW or REVISED License') {
     return '[License: BSD 3-Clause NEW or REVISED License](https://opensource.org/licenses/BSD-3-Clause)'
   }
-}
-
-function renderLogo(license) {
-  if (license !== 'None') {
-    return `## License uses the ${license} license`
+  if (license === 'None') {
+    return `## No licenses used`
   }
   return ' '
 }
@@ -40,7 +37,7 @@ ${data.contributing}
 ## Test
 ${data.test}
 ${renderLicense(data.license)}
-${renderLogo(data.license)}
+${renderLicense(data.license)}
 ## Questions
 ${data.git}
 ${data.email}
